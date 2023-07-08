@@ -7,10 +7,8 @@
     </td>
     <td style="background-color: #ffffff;">
       <div align="left" style="background-color: #ffffff;">
-        <h3>Hi👋, my name is Yonatan (Yoni) Abrams</h3>
-      </div>
-      <div align="left" style="background-color: #ffffff;">
-        <h4>Welcome to my GitHub page!</h4>
+        <h3>Hi👋,<br>I'm Yonatan (Yoni) Abrams - a Data Scientist</h3>
+        <p><strong>Welcome to my GitHub page!</strong></p>
       </div>
     </td>
   </tr>
@@ -21,9 +19,12 @@
       </div>
     </td>
     <td rowspan="2" style="background-color: #ffffff;">
+      <div>
+        <p><strong>I would love you to check out my work:</strong></p>
+      </div>
       <ul style="background-color: #ffffff;">
-        <li>I hope what you find below is either interesting, helpful, or <strong>both!</strong></li>
-        <li>I had a lot of fun cracking my head on all the work you'll find here!</li>
+        <li>Hopefully what you find below is interesting, helpful, or even <strong>both!</strong></li>
+        <li>I had a lot of fun cracking my head on everything you'll find here!</li>
       </ul>
       <div align="left">
         <h4>Feel Free to reach out with questions or with project ideas! You can find me on LinkedIn:</h4>
