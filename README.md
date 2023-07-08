@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="left">
+  <h3> Hi👋, my name is Yonatan (Yoni) Abrams</h3>
+</div>
 
-<!--
-**yoniabrams/yoniabrams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="custom_github_logo.png" alt="Image" width="200">
+</div>
 
-Here are some ideas to get you started:
+<div align="left">
+   <h4> Welcome to my GitHub page!</h4>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>I hope what you find below is either interesting, helpful, or <strong>both!</strong></li>
+  <li>I had a lot of fun cracking my head on all the work you'll find here!</p>
+</ul>
+
+<div align="left">
+  <h4>Feel Free to reach out with questions or with project ideas! You can find me on LinkedIn:</h4>
+  <div>
+    <a href="www.linkedin.com/in/yabrams" target="_blank">LinkedIn Profile</a>
+  </div>
+</div>
