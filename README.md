@@ -5,7 +5,7 @@
   <h3>Hi👋,<br>I'm Yonatan (Yoni) Abrams</h3>
   <p><strong>Welcome to my GitHub page!</strong></p>
 </div>
-<table style="background-color: #ffffff; border: none;">
+<table align="center" style="background-color: #ffffff; border: none;">
   <tr style="background-color: #ffffff;">
     <td style="background-color: #ffffff;">     
       <ul style="background-color: #ffffff;">
@@ -13,11 +13,14 @@
         <li>I had a lot of fun cracking my head on everything you'll find here!</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td>
       <div align="left">
-        <p><strong>Feel Free to reach out with questions or with project ideas! You can find me on LinkedIn:</strong></p>
+        <strong>Feel Free to reach out with questions or with project ideas! You can find me on LinkedIn:</strong>
         <div style="background-color: #ffffff;">
           <a href="https://www.linkedin.com/in/yabrams" target="_blank">LinkedIn Profile</a>
         </div>
       </div>
     </td>
+  </tr>
