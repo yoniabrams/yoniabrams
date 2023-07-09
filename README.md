@@ -12,4 +12,10 @@
     <a href="https://www.linkedin.com/in/yabrams" target="_blank">LinkedIn Profile</a>
   </div>
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoniabrams&theme=dracula" width="400" height="200">
+</div>
+
+
+
 
