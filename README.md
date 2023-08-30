@@ -4,9 +4,18 @@
 
 <div align="center" style="background-color: #ffffff;">
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Yonatan Abrams!</h1>
-  <h3>Welcome to my GitHub page!</h3>
 </div>
-<div align="center">
+<div>
+  <h3>See below for highlights of my work, including:</h3>
+  <ul>
+    <li> <strong>ASL Spellnet:</strong> A 'Sign-Language-to-Text' Transformer Model</li>
+    <li> <strong>Bible Verse Transliterator:</strong> A Transliteration Flask App</li>
+    <li> <strong>Tourism Scraper:</strong> A Webscraping project for tourists!
+    </li>
+  </ul>
+</div>
+<br>
+<div>
   <strong>Feel Free to reach out with questions or with project ideas! You can find me on LinkedIn:</strong>
   <div style="background-color: #ffffff;">
     <a href="https://www.linkedin.com/in/yabrams" target="_blank">LinkedIn Profile</a>
