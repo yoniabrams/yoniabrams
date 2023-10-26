@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="background-color: #ffffff;">
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Yonatan Abrams!</h1>
+  <h1 align="center">Hi, I'm Yonatan Abrams!</h1>
 </div>
 <div>
   <h3>See below for highlights of my work, including:</h3>
