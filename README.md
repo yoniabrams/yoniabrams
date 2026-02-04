@@ -26,6 +26,11 @@ A workflow that translates natural language textual event-announcements into Wha
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 [![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat&logoColor=white)](https://opencode.ai/)
 
+### **Dropdown-Menu Filter Search Chrome Plugin**
+No more doom scrolling through 200 countries to find USA, or 500 timezones to find GMT+7! With this plugin enabled in your browser, you will be able to use a filter search UI for any dropdowns menus on the webpage. (Pending approval from Google.)
+
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+
 
 ### **NeuroScribeAI.com** *(closed source)*  
 Joined a team building AI workflows to help neuropsychologists focus on their clients rather than their paperwork.
