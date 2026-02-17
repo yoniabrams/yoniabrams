@@ -26,8 +26,11 @@ A workflow that translates natural language textual event-announcements into Wha
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 [![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat&logoColor=white)](https://opencode.ai/)
 
-### **Dropdown-Menu Filter Search Chrome Plugin**
-No more doom scrolling through 200 countries to find USA, or 500 timezones to find GMT+7! With this plugin enabled in your browser, you will be able to use a filter search UI for any dropdowns menus on the webpage. (Pending approval from Google.)
+### **Dropdown-Menu Filter Search Chrome Plugin (Available in [Chrome Web Store](https://chromewebstore.google.com/detail/lfakjoengnicfipgnbfifiakkedmhbph?utm_source=item-share-cb))**
+
+No more doom scrolling through 200 countries to find USA, or 500 timezones to find GMT+7! With this plugin enabled in your browser, you will be able to use a filter search UI for any dropdowns menus on the webpage.
+
+**Add to your Chrome today:** [here](https://chromewebstore.google.com/detail/lfakjoengnicfipgnbfifiakkedmhbph?utm_source=item-share-cb)
 
 ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
