@@ -34,10 +34,6 @@ No more doom scrolling through 200 countries to find USA, or 500 timezones to fi
 
 ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
-
-### **NeuroScribeAI.com** *(closed source)*  
-Joined a team building AI workflows to help neuropsychologists focus on their clients rather than their paperwork.
-
 ---
 
 ## 📫 **Connect with me:** 
